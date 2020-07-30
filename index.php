@@ -423,7 +423,7 @@ ___________    _____        ________
     <script src="js/lightbox.min.js"></script>
     <script src="js/jquery-modal-video.min.js"></script>
     <script src="js/validator.min.js"></script>
-    <script src="js/strider.js"></script>
+    <script src="js/RiderProvider.js"></script>
 	<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_GOOGLE_API_KEY"></script>
  
 </body>
